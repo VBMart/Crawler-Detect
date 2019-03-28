@@ -1,5 +1,5 @@
 {
-    "name": "jaybizzle/crawler-detect",
+    "name": "VBMart/crawler-detect",
     "type": "library",
     "description": "CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent",
     "keywords": ["crawler", "crawler detect", "crawler detector", "crawlerdetect", "php crawler detect"],
